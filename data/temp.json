@@ -1,0 +1,20 @@
+{
+  "problem_name": "problem01",
+  "params": {
+    "algorithm": "GA",
+    "seed": 25,
+    "population": 30,
+    "crossover": 0.3,
+    "mutation": 0.1
+  },
+  "cities": {
+    "a": [1, 2],
+    "b": [4, 1],
+    "c": [1, 8],
+    "d": [14, 1],
+    "e": [4, 10],
+    "f": [6, 7],
+    "g": [8, 2],
+    "h": [9, 10]
+  }
+}
