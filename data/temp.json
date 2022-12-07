@@ -2,6 +2,7 @@
   "problem_name": "problem01",
   "params": {
     "algorithm": "GA",
+    "start": "a",
     "seed": 25,
     "population": 30,
     "crossover": 0.3,
